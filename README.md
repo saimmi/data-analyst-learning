@@ -43,5 +43,5 @@ To build strong data analysis skills and create real-world projects.
 ---
 
 ## 🔗 Connect with Me
-- LinkedIn: (add your link)
-- GitHub: (your profile link)
+- LinkedIn: https://www.linkedin.com/in/s-nisha-31a78b212
+- GitHub: https://github.com/saimmi
